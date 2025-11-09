@@ -1,0 +1,114 @@
+.content {
+    height: calc(100% - 110px);
+    width: 100%;
+    position: relative;
+    display: flex;
+}
+
+.content-left {
+    padding: 50px 80px;
+}
+
+.content-left h5 {
+    font-size: 20px;
+    text-transform: capitalize;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.container-fluid h1 {
+    font-size: 40px;
+    text-align: center;
+    background-color: #dadada;
+    margin-top: 50px;
+}
+
+.content-left h1 {
+    font-size: 60px;
+    text-transform: uppercase;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.content-left p {
+    margin-left: 0px;
+    font-size: 18px;
+    width: 500px;
+    margin-bottom: 40;
+
+}
+
+.btn {
+    background-color: black;
+    color: aliceblue;
+    font-size: 15px;
+    padding: 12px 40px;
+    font-weight: 600;
+    border: none;
+    /* border-radius: 50px;
+    border-top-left-radius: 0px; */
+}
+
+.right-section p {
+    margin-top: 15px;
+    margin-left: 60px;
+    flex: 1.5;
+    display: flex;
+    /* margin-left: 105px; */
+}
+
+.right-section h4 {
+    margin-top: 15px;
+    margin-left: 60px;
+    flex: 1.5;
+    display: flex;
+    /* gap: 10;
+    margin-left: 105px; */
+}
+
+.right-section img {
+    margin-top: 50px;
+    margin-left: 60px;
+    justify-content: left;
+    width: 300px;
+    border-radius: 10px;
+    object-fit: contain;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+}
+
+.banner {
+    position: relative;
+    height: 60vh;
+    width: 50%;
+    display: flex;
+    align-items: left;
+    background: url('men-shoes.jpg') no-repeat right center/contain;
+    background-color: #f8f8f8;
+    margin-right: 135px;
+}
+
+.div-h5 {
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
+
+.tittle-h7 {
+    height: 100px;
+    width: 100px;
+}
+
+.left img {
+    margin-top: 30px;
+    margin-left: 100px;
+    justify-content: space-evenly;
+    height: 500px;
+    width: 350px;
+    border-radius: 30px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+}
+
+/* .container {
+    margin-top: 600px;
+    margin-right: 800px;
+} */
