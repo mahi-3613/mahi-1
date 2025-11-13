@@ -82,7 +82,7 @@
     width: 50%;
     display: flex;
     align-items: left;
-    background: url('men-shoes.jpg') no-repeat right center/contain;
+    background: url('men-shoes\ dark\ grey.jpg') no-repeat right center/contain;
     background-color: #f8f8f8;
     margin-right: 135px;
 }
